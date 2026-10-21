@@ -1,0 +1,12 @@
+.gitignore
+
+.env
+.env.*
+!.env.example
+con_manager.db
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+.venv/
+venv/
